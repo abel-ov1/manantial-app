@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
-  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.2.0/manantial.apk",
-  "notas": "Gasto: eliges si sale de tu caja o de la caja general. Historial de ventas de la caja pendiente. Actualizacion automatica."
+  "versionCode": 3,
+  "versionName": "0.3.0",
+  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.3.0/manantial.apk",
+  "notas": "Corregido: en Nueva venta ahora se ve nombre y alias del cliente."
 }
