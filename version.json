@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "0.32.0",
-  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.32.0/manantial.apk",
-  "notas": "NUEVO: COTIZACIONES (Más > Cotizaciones). Para empresas: eliges un cliente de la app o escribes sus datos (empresa, RUC, contacto, teléfono, correo), pones su número de requerimiento si lo dio, eliges recargas, bidones o galones y la cantidad (el precio se puede cambiar solo para esa cotización), y la app arma un PDF con tu logo, tus datos y tu cuenta BCP, listo para enviar por WhatsApp o correo. Cada una lleva su número (la siguiente es la 002-2026) y se borra sola cuando vence (15 días). Tus datos se pueden editar en \"Mis datos en la cotización\". UNA COTIZACIÓN NO ES UNA VENTA: no baja stock, no suma plata ni deja deuda. YAPES: un Yape que pagaba un fiado ya no se confunde con una venta del mismo cliente, monto y día (caso Jesús, Hotel América): ahora cada uno se vincula a lo suyo; y dos ventas iguales del mismo día pagadas con un solo Yape se enlazan bien. Más seguro: el cobro automático ya no decide con datos viejos de un celular que estuvo días cerrado, y pregunta al servidor antes de tocar un Yape, así nunca pisa lo que se decidió en el otro celular. Un Yape de tu cuenta por el mismo monto y día que un \"Pasar efectivo al Yape\" ahora te sugiere \"Es tu traspaso · archivar\" (no lo vincules a un cliente: se contaría dos veces). EXCEL: el agua de CONSUMO de la casa ahora sale como una fila más en la hoja de Ventas, en su fecha y con quién la registró, con S/0 y estado \"CONSUMO\" (los totales siguen sumando solo lo vendido)."
+  "versionCode": 33,
+  "versionName": "0.33.0",
+  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.33.0/manantial.apk",
+  "notas": "Solo entran los Yapes del agua: el Yape personal de Juan ya no aparece en la app. Y las actualizaciones se detectan al toque."
 }
