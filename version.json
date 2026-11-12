@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.33.0",
-  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.33.0/manantial.apk",
-  "notas": "Solo entran los Yapes del agua: el Yape personal de Juan ya no aparece en la app. Y las actualizaciones se detectan al toque."
+  "versionCode": 34,
+  "versionName": "0.34.0",
+  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.34.0/manantial.apk",
+  "notas": "Inicio abre al toque. Nuevo: comparación con el mes anterior (Historial de caja) y mensaje de cobro por WhatsApp en Deudores. Avisa si los Yapes dejan de llegar o si algo no se pudo hacer sin internet."
 }
