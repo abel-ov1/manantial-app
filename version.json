@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "0.34.0",
-  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.34.0/manantial.apk",
-  "notas": "Inicio abre al toque. Nuevo: comparación con el mes anterior (Historial de caja) y mensaje de cobro por WhatsApp en Deudores. Avisa si los Yapes dejan de llegar o si algo no se pudo hacer sin internet."
+  "versionCode": 35,
+  "versionName": "0.35.0",
+  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.35.0/manantial.apk",
+  "notas": "Arreglo: un Yape ya cobrado ahora sale al toque de \"Por revisar\" y la lista de Yapes se reconecta sola si se corta el internet."
 }
