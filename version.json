@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "0.38.0",
-  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.38.0/manantial.apk",
-  "notas": "Nuevo: Mani, asistente de voz (botón 🎤 en Inicio) para anotar ventas y consultar datos. Excel: los fiados ya pagados salen en Efectivo o Yape."
+  "versionCode": 39,
+  "versionName": "0.39.0",
+  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.39.0/manantial.apk",
+  "notas": "Mani te entiende mucho mejor al hablar. Ahora anota ventas de otro día (\"ayer\", \"el lunes\") y a nombre de quien vendió."
 }
