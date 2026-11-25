@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "0.41.0",
-  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.41.0/manantial.apk",
-  "notas": "Prueba de actualización. Todo igual que la v40."
+  "versionCode": 42,
+  "versionName": "0.42.0",
+  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.42.0/manantial.apk",
+  "notas": "Ahora puedes hablarle encima a Mani para interrumpirla. Encuentra mejor los nombres (John/Jhon)."
 }
