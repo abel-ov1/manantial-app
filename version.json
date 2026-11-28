@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "0.49.0",
-  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.49.0/manantial.apk",
-  "notas": "Mani devuelve el audio a normal al colgar."
+  "versionCode": 50,
+  "versionName": "0.50.0",
+  "urlApk": "https://github.com/abel-ov1/manantial-app/releases/download/v0.50.0/manantial.apk",
+  "notas": "Mani confirma más corto y con el nombre que dijiste."
 }
